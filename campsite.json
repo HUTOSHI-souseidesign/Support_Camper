@@ -1,0 +1,100 @@
+{
+  "campsites": [
+    {
+      "id": 1,
+      "name": "竜王山公園オートキャンプ場",
+      "level": "道具なし",
+      "feature": "山",
+      "google_map_url": "https://www.google.com/maps/place/%E7%AB%9C%E7%8E%8B%E5%B1%B1%E5%85%AC%E5%9C%92%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/@33.9513631,131.1660917,17z/data=!3m1!4b1!4m9!3m8!1s0x35438450427ecc01:0x93f6c3064eb5ed99!5m2!4m1!1i2!8m2!3d33.9513631!4d131.1686666!16s%2Fg%2F1thq326b?entry=ttu",
+      "photo_url": "https://japancamp.jp/wp/wp-content/uploads/2019/03/350080301.jpg",
+      "site_url": "http://ryuo-zan.com/",
+      "equipment_set": "B",
+      "location": "下関",
+      "price": "無料"
+    },
+    {
+      "id": 2,
+      "name": "ふれあいパーク大原湖キャンプ場",
+      "level": "道具なし",
+      "feature": "湖",
+      "google_map_url": "https://maps.app.goo.gl/GHgLQZDnBvqu5Pto7",
+      "photo_url": "https://www.public-camp.com/c-ken/c-yamaguti/img/c-10159oharako01.jpg",
+      "site_url": "https://www.c-able.ne.jp/~oharako/",
+      "equipment_set": "C",
+      "location": "山口",
+      "price": "有料"
+    },
+    {
+      "id": 3,
+      "name": "ときわ湖畔北キャンプ場",
+      "level": "道具あり",
+      "feature": "湖",
+      "google_map_url": "https://www.google.co.jp/maps/place/%E3%81%A8%E3%81%8D%E3%82%8F%E6%B9%96%E7%95%94%E5%8C%97%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/data=!4m7!3m6!1s0x35447f7a8c737627:0xb7d0ec24540e2fa2!8m2!3d33.9609906!4d131.2895829!16s%2Fg%2F119x30yp1!19sChIJJ3ZzjHp_RDURoi8OVCTs0Lc?authuser=0&hl=ja&rclk=1",
+      "photo_url": "https://www.tokiwapark.jp/etc/assets_c/2016/08/camp-thumb-575x196-4595.jpg",
+      "site_url": "https://www.tokiwapark.jp/etc/camp.html",
+      "equipment_set": "C",
+      "location": "下関",
+      "price": "無料"
+    },
+    {
+      "id": 4,
+      "name": "豊田湖畔公園キャンプ場",
+      "level": "道具あり",
+      "feature": "湖",
+      "google_map_url": "https://www.google.com/maps/place/%E8%B1%8A%E7%94%B0%E6%B9%96%E7%95%94%E5%85%AC%E5%9C%92%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/@34.2416381,131.1210043,15z/data=!4m9!3m8!1s0x354365603e47343b:0x71103e06c4a67ae5!5m2!4m1!1i2!8m2!3d34.2416381!4d131.1210043!16s%2Fg%2F1v3gppz9?entry=ttu",
+      "photo_url": "https://www.public-camp.com/c-ken/c-yamaguti/img/c-10157-toyoda11.jpg",
+      "site_url": "https://toyotakohan.org/",
+      "equipment_set": "C",
+      "location": "下関",
+      "price": "有料"
+    },
+    {
+      "id": 5,
+      "name": "寂地峡キャンプ場",
+      "level": "道具あり",
+      "feature": "山 川",
+      "google_map_url": "https://www.google.com/maps/place/%E5%AF%82%E5%9C%B0%E5%B3%A1%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/@34.4282733,132.0555493,15z/data=!4m9!3m8!1s0x355ada9f3107ea59:0xb09f5250423b9f67!5m2!4m1!1i2!8m2!3d34.4282733!4d132.0555493!16s%2Fg%2F119wg0jtz?entry=ttu",
+      "photo_url": "https://www.public-camp.com/c-ken/c-yamaguti/img/c80037jakuchi02.JPG",
+      "site_url": "https://www.public-camp.com/c-ken/c-yamaguti/c80037jakuchikyo.html",
+      "equipment_set": "B",
+      "location": "柳井",
+      "price": "有料"
+    },
+    {
+      "id": 6,
+      "name": "千畳敷キャンプ場",
+      "level": "道具あり",
+      "feature": "海",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%83%E7%95%B3%E6%95%B7%E9%AB%98%E5%8E%9F%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/@34.4135887,131.0881326,17z/data=!3m1!4b1!4m6!3m5!1s0x354342e4a6cb6517:0x87120a284b73200!8m2!3d34.4135887!4d131.0907075!16s%2Fg%2F119ws249_?entry=ttu",
+      "photo_url": "https://tryangle.yamaguchi.jp/wp-content/uploads/2021/02/dc2f280bde187f613f3e3b6aea7073e8.jpg",
+      "site_url": "https://nanavi.jp/activities/senjoujiki-camp/",
+      "equipment_set": "A",
+      "location": "萩",
+      "price": "有料"
+    },
+    {
+      "id": 7,
+      "name": "中ノ浦海水浴場",
+      "level": "道具あり",
+      "feature": "海",
+      "google_map_url": "https://www.google.com/maps/place/%E4%B8%AD%E3%83%8E%E6%B5%A6%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4/@33.8495214,132.0563351,14z/data=!3m1!4b1!4m6!3m5!1s0x35451a84abb02a8b:0x248f48c6db626d37!8m2!3d33.8495237!4d132.0769347!16s%2Fg%2F11fy_nwxn_?entry=ttu",
+      "photo_url": "https://yamaguchi-camp.site/wp-content/uploads/2020/08/DSC08930.jpg",
+      "site_url": "https://shikinejima.tokyo/play/beach/nakanoura_beach/",
+      "equipment_set": "C",
+      "location": "柳井",
+      "price": "無料"
+    },
+    {
+      "id": 8,
+      "name": "阿武川河川公園",
+      "level": "道具あり",
+      "feature": "川",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%AD%A6%E5%B7%9D%E6%B2%B3%E5%B7%9D%E5%85%AC%E5%9C%92/@34.3654007,131.4378385,17z/data=!3m1!4b1!4m6!3m5!1s0x3544a534d756dabd:0xf79028686689c7b6!8m2!3d34.3654007!4d131.4404134!16s%2Fg%2F11fy_qmqfz?entry=ttu",
+      "photo_url": "https://www.hagishi.com/img/1100181-2.jpg",
+      "site_url": "https://www.hagishi.com/search/detail.php?d=1100180",
+      "equipment_set": "C",
+      "location": "萩",
+      "price": "無料"
+    }
+  ]
+}
