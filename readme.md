@@ -34,7 +34,7 @@
   * 推薦するアルゴリズムの改良も
 * より細かい情報も提供できるようにする
   * 初心者向けにYoutube動画等も提供できるように
-## アプリ構成
+## 構成
 AWSのlambda関数を用いてデプロイを行いました。
 以下の画像のような構成になっています。
 ![image](https://github.com/user-attachments/assets/305c3c6a-3ca3-4ff1-b2fa-0a9d1df07338)
