@@ -20,6 +20,7 @@
 
 ↓友達追加用QRコード(AWSの無料期間が終了する2025年5月頃サービス終了予定)  
 ![image](https://github.com/user-attachments/assets/5be3cc25-d547-4901-83c2-b0ccd9fcb7e9)
+アカウント名:Support Camper
 
 
 ## チーム構成
